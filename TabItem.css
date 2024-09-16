@@ -1,0 +1,41 @@
+.head1 {
+  color: #2563eb;
+  font-size: 25px;
+  border-width: 0px;
+  background-color: transparent;
+}
+.hori-line1 {
+  color: #2563eb;
+  width: 50%;
+  border-style: solid;
+  border-width: 1px;
+}
+.head2 {
+  color: #7b8794;
+  font-size: 25px;
+  border-width: 0px;
+  background-color: transparent;
+}
+.hori-line2 {
+  color: #7b8794;
+  width: 50%;
+  border-style: solid;
+  border-width: 1px;
+}
+.list-item {
+  list-style-type: none;
+}
+@media (max-width: 767px) {
+  .head1 {
+    color: #7b8794;
+    font-size: 15px;
+    border-width: 0px;
+    background-color: transparent;
+  }
+  .head2 {
+    color: #7b8794;
+    font-size: 15px;
+    border-width: 0px;
+    background-color: transparent;
+  }
+}
